@@ -91,7 +91,6 @@ function initEasterEgg() {
         }
       });
     }
-    console.log(counter);
   });
 }
 
