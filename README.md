@@ -12,6 +12,7 @@ Browser DevTools code snippets
 | Name                                                                              | Short Description                                          | Category       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [EasterEgg](./snippets/Funny/easterEgg.md)                                   | find an EasterEgg in Google.com | funny
+| [MemeGenerator](./snippets/Funny/memeGenerator.md)                                   | create meme over webpage | funny
 
 ### How to Run
 Run in Chrome Browser [[here]](https://www.google.com/search?q=how+to+run+snippet+in+chrome&oq=how+to+run+snipper&aqs=chrome.1.69i57j0l7.4817j0j7&sourceid=chrome&ie=UTF-8)]
@@ -33,6 +34,7 @@ Any contributions are very much appreciated. :pray: You can contribute in 2x way
 ### Main Contributors :bulb:🙂
 
 - **crisanlucid**: [Twitter](https://twitter.com/lucianTopcraft) - [Article](https://www.codementor.io/@crisanlucid/how-i-debugged-my-code-in-javascript-using-snippets-from-chrome-devtools-yum6fatrl) - [website](https://sites.google.com/view/news-landingpage/index)
+- **elona**: [Linkedin](https://www.linkedin.com/in/elona-gusho-a60a6959/)
 - **you can be NEXT**
 
 ## Stars history
